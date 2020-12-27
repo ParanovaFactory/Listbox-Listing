@@ -1,0 +1,10 @@
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.exe.config
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.exe
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\bin\Debug\Ödev11.pdb
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.Form1.resources
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.Properties.Resources.resources
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.exe
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.pdb
+O:\Udemy\Udemy C# Ödevleri\Ödev11\Ödev11\obj\Debug\Ödev11.csprojAssemblyReference.cache
